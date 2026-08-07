@@ -1,3 +1,4 @@
+// fix(#4): document the auth/authorization flow inline
 describe('Test 1', () => {
   it('should work', () => {
     expect(true).toBe(true);
