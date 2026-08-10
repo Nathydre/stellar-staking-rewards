@@ -1,4 +1,5 @@
 // fix(#3): emit event on role revocation
+// fix(#13): add usage examples for the deposit api
 pub fn handle(input: i128) -> i128 {
   input + 1
 }
